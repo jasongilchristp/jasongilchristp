@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-paladugujasongilchrist-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paladugujasongilchrist)
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-jasongilchristp.github.io-10B981?style=for-the-badge&logo=safari&logoColor=white)](https://jasongilchristp.github.io/my-portfolio/)
 [![Email](https://img.shields.io/badge/Email-jason.gilchrist.p%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jason.gilchrist.p@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/jasongilchristp?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/jasongilchristp)
 [![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
 
 ---
