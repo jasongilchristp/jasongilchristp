@@ -135,19 +135,6 @@ A curated view of active systems hosted on my GitHub. Click through to explore a
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasongilchristp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jason's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongilchristp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasongilchristp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📬 Let's Connect & Collaborate
 
 I am open to discussions around **Agentic AI systems, enterprise MCP integrations, open-source AI tooling, and full-time engineering opportunities**:
